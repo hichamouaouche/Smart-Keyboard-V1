@@ -1,5 +1,9 @@
 # Smart Keyboard V1 - Mini rapport
 
+Auteur : Hicham Ouaouche
+
+Lien de déploiement Streamlit : https://smart-keyboard-v1git-mbygy2xwjucaqrtmygynq9.streamlit.app/
+
 ## 1. Objectif du projet
 
 Ce projet a pour but de construire un moteur de suggestions de mots pour un clavier intelligent. L’idée est simple : à partir du texte déjà saisi, le modèle prédit le mot suivant avec une probabilité calculée à partir d’un modèle de langage.
